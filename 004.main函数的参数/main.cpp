@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main(int argc, char *argv[])    // argc表示运行时的参数的段落数，argv表示参数
+int main(int argc, char *argv[])    // argc 表示运行时的参数的段落数，argv 表示参数
 {
     int i, num;
     int s = 0;
