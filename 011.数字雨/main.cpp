@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
         count = 65536;      // 如果没有参数，默认为 65536
     }
 
-    system("color 0a");     // 给终端字体上色
+    system("color 0a");     // 给终端字体上色，Windows CMD 下有效
 
     for(i = 0; i < count; i++)
     {
